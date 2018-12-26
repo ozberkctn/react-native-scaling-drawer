@@ -202,7 +202,7 @@ const styles = StyleSheet.create({
   },
   front: {
     backgroundColor: "white",
-    height: height,
+    height: "100%",
     zIndex: 2
   },
   mask: {
